@@ -19,3 +19,5 @@ This simple mechanisms quickly depleted their posibilities in terms of gameplay 
 Player's goal is to get from the start of the level to the end, performing precise actions in right moments determined by rhythm of background music. Level is loaded with interactive elements. Except dangers, that has to be avoided, there are several elements that, if reached in time, enrich sound of a song and greatly increase amount of points gained.
 
 [![Early concept](https://img.youtube.com/vi/EBYWZrlTI2A/0.jpg)](https://www.youtube.com/watch?v=EBYWZrlTI2A)
+
+**You can download binary release for Windows [here] (https://github.com/PrzemyslawNowaczyk/Music-Platformer-Game/releases)**
